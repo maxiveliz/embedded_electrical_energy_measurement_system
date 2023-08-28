@@ -42,7 +42,7 @@
 
 //--------------------------------------------------------------------------------------------------
 //Datos del equipo
-#define proyecto "PROJECT:  Embedded Electrical Energy Measurement System Based on the M90E36A for Detecting High-Frequency Features in Household Appliances and control"    
+#define proyecto "PROJECT: Embedded Electrical Energy Measurement System Based on the M90E36A to Acquire and Process High-Frequency Features in Household Appliances."    
 #define equipo   "EQUIPMENT:    Arcane Meter"
 #define vers     "VERS.:     1.DMA"
 #define fecha    "DATE:     2023"
