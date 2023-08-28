@@ -2,7 +2,7 @@
 Smart Meter Project
 
 
-A novel High-Frequency Electric Energy Metering System to inspect non-conventional features that may be
+A novel High-Frequency Electric Energy Metering System to inspect non-conventional features that may be 
 relevant for studying real-time energy disaggregation and control of household appliances, is presented.
 Integration of a data acquisition and control board based on the M90E36A DB chip, designed and built to be
 assembled with an Arduino DUE, allows for flexible and configurable electrical energy measurements. Samples
