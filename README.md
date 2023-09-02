@@ -11,7 +11,7 @@ domain and 2 Hz in the frequency domain. Furthermore, the M90E36A IC direct acce
 operated, allowing 8 kHz pure voltage and current signals to be obtained. Finally, integration with Raspberry
 Pi allows to design and incorporate a custom signal processor into the study. Additionally, in this article, an
 application example is presented where the variation of the residual harmonic components of a household
-appliance is obtained
+appliance is obtained.
 
 
 
