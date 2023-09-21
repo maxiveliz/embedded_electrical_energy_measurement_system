@@ -8,7 +8,7 @@
 
 //Maximiliano E. Véliz (mveliz@campus.ungs.edu.ar)
 //Gustavo E. Real (greal@campus.ungs.edu.ar)
-//Alejandro D. Otero (alejandro.otero@csc.conicet.gov.ar)
+
 
 
 // Conditional compilations
